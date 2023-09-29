@@ -48,3 +48,9 @@ footer {
     background-color: #333;
     color: white;
 }
+.Allign {
+    text-align: center;
+    text-decoration:dotted;
+    text-justify: auto;
+    text-size-adjust: 10;
+}
